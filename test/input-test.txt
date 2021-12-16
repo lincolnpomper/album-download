@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=nQPQV40e6j0
+ARTIST: Mario
+ALBUM: Mario OST
+SEPARATOR: " : "
+FORMAT: TITLE->TIME
+
+Intro : 0:00:00
+Main Theme : 0:00:13
+another track : 0:00:20

@@ -1,0 +1,35 @@
+URL: https://www.youtube.com/watch?v=Hkz4SB6wJBM
+ARTIST: Animal Crossing
+ALBUM: Animal Crossing - Relaxing Music with Soft Rain
+SEPARATOR: " - "
+FORMAT: TIME->TITLE
+
+00:00 - 2 AM ~ City Folk
+02:32 - 1 AM ~ New Leaf
+04:41 - Rainy Day ~ Animal Crossing GCN
+06:31 - 5 PM ~ City Folk
+08:05 - 5 PM ~ New Leaf
+10:39 - 12 PM ~ New Horizons
+13:10 - Loading the Game (Isabelle) ~ New Leaf
+14:03 - 1 PM ~ New Leaf
+15:41 - 5 AM ~ Animal Crossing GCN
+18:55 - 5 PM ~ New Horizons
+22:36 - 6 AM ~ City Folk
+24:08 - Train Station ~ New Leaf
+25:09 - 7 PM ~ New Leaf
+26:53 - 7 PM ~ Animal Crossing GCN
+29:11 - Able Sisters ~ New Horizons
+31:06 - Able Sisters, Labelle ~ New Leaf
+32:15 - 5 AM ~ City Folk
+34:55 - 9 PM ~ New Leaf
+36:42 - 3 AM ~ Animal Crossing GCN
+39:52 - The Roost ~ City Folk
+41:17 - New Years Eve (11.55 PM) ~ New Horizons
+43:13 - 8 AM ~ New Leaf
+44:51 - 5 PM ~ Animal Crossing GCN
+47:17 - The City (Evening) ~ City Folk
+49:29 - 11 PM ~ New Leaf
+51:46 - 9 PM ~ Animal Crossing GCN
+54:32 - 8 PM ~ City Folk
+57:14 - 8 PM ~ New Leaf
+58:53 - Shop Closing ~ New Horizons
