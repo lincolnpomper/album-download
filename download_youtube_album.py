@@ -6,42 +6,6 @@ from pydub import AudioSegment
 from songs_info_reader import SongsInfoReader
 from songs_info_reader import SongInfo
 
-"""
-This software downloads music from youtube and convert to mp3 the content splitting in several files based on input.
-
-the structure of the input is as follows:
-    URL: youtube link
-    ARTIST: Artist
-    ALBUM: Album or collection name
-    SEPARATOR: This is what lies between the title and time, will be inserted in double quotes: "*SEPARATOR*"
-    FORMAT: The format of the lines that contains song and time information. Must be one of the following:
-        TIME->TITLE or TIME->TITLE
-        The time is the starting time of the current song.
-    
-    TIME SEPARATOR TITLE
-    TIME SEPARATOR TITLE
-    ...
-    or
-    TITLE SEPARATOR TIME
-    TITLE SEPARATOR TIME
-    ...
-
-example:
-    URL: https://www.youtube.com/watch?v=Hkz4SB6wJBM
-    ARTIST: Animal Crossing
-    ALBUM: Animal Crossing - Relaxing Music with Soft Rain
-    SEPARATOR: " - "
-    FORMAT: TIME->TITLE
-    
-    00:00 - 2 AM ~ City Folk
-    02:32 - 1 AM ~ New Leaf
-    04:41 - Rainy Day ~ Animal Crossing GCN
-
-Based on:
-Author: Marjan Moderc
-github: https://github.com/marjanmo
-"""
-
 
 class AlbumDownload:
 
