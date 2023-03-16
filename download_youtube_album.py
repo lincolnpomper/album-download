@@ -1,5 +1,5 @@
 import os
-import youtube_dl
+import yt_dlp
 import pydub
 from pydub import AudioSegment
 
@@ -34,9 +34,10 @@ class AlbumDownload:
             print("Downloading video {}. this will take a while".format(youtube_link))
             parameters = {
                 "outtmpl": temp_file_name,
-                "format": "bestvideo[ext=mp4]+bestaudio[ext=m4a]"
+                "format": "bestvideo[ext=mp4]+bestaudio[ext=m4a]",
+                "verbose": True
             }
-            with youtube_dl.YoutubeDL(parameters) as fileDownloader:
+            with yt_dlp.YoutubeDL(parameters) as fileDownloader:
                 fileDownloader.download([youtube_link])
 
         if file_exists:
